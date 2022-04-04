@@ -1,0 +1,37 @@
+html {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    min-height: 100rem;
+}
+header {
+    background-color: cadetblue;
+}
+img {
+    max-width: 200px;
+}
+.navegador {
+    max-width: 1200px;
+    text-align: right;
+    margin: 0 auto;
+    line-height: 80px;
+}
+.logo {
+    width: 150px;
+    float: left;
+}
+
+.html,
+.css {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+.footer {
+    text-align: center;
+    background-color: cadetblue;
+}
